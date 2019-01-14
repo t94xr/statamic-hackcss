@@ -1,0 +1,24 @@
+title: 'Post Fieldset'
+sections:
+  main:
+    display: Main
+    fields:
+      title:
+        display: Title
+        type: text
+        width: 66
+        localizable: true
+      slug:
+        display: Slug
+        type: text
+        width: 33
+      tags:
+        type: tags
+        display: Tags
+        default: uncategorized
+      content:
+        cheatsheet: false
+        restrict_assets: false
+        type: markdown
+        display: Content
+taxonomies: true

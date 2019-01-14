@@ -1,0 +1,10 @@
+sections:
+  main:
+    display: Main
+    fields:
+      globals:
+        cheatsheet: true
+        restrict_assets: false
+        type: markdown
+        display: Globals
+title: 'Global Fieldset'

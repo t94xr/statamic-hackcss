@@ -1,0 +1,12 @@
+<h2>Blog</h2>
+
+{{ collection:blog group_by_date="M Y" as="entries" }}
+    {{ date_groups }}
+        <h3>{{ date_group }}</h3>
+        <ul>
+            {{ entries }}
+                <li><a href="{{ url }}">{{ title }}</a> &mdash; <time datetime="{{ date | format:Y-m-d }}">{{ date | format: M d, Y }}</time></li>
+            {{ /entries }}
+        </ul>
+    {{ /date_groups }}
+{{ /collection:blog }}

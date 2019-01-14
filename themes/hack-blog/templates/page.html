@@ -1,0 +1,10 @@
+    <h2>{{ title }}</h2>
+    <p class="date">{{ date | format: M d, Y }}</p>
+
+    <p class="post-date" style="display: none;">Posted {{ date | format: M d, Y }}, tagged under   {{ taxonomy use="tags" }}
+    {{ title }}
+  {{ /taxonomy }}.</p>
+
+  <p>{{ username }}</p>
+
+    {{ content }}

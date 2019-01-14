@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+
+
+header, header h1 {
+  text-align: center !important;
+}
+header h1 a {
+  color: black;
+  text-decoration: none;
+}
+
+article {
+  letter-spacing: -0.25pt;
+}
+article h3 {
+  margin: 0;
+  padding: 0;
+}
+article p.date {
+  margin: 0;
+  padding: 0;  
+  color: #BDBDBD;
+}
+
+footer {
+  letter-spacing: -0.5pt;
+  color: #474747;
+  font-size: small;
+}
+
+footer p {
+  border-top: 1px solid #BDBDBD;
+  color: #BDBDBD;
+  padding: 3px;
+}
+footer a {
+  color: #FFA3F6;
+  text-decoration: none;
+}
+
+img { max-width: 100%; }
+time { font-size: small; }

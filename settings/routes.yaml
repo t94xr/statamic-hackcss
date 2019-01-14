@@ -1,0 +1,9 @@
+routes:
+  articles: list_articles
+  blog: list_blog
+  /: home
+collections:
+  articles: '/articles/{year}{month}/{slug}'
+  blog: '/blog/{year}-{month}-{day}-{slug}'
+taxonomies:
+  tags: tags

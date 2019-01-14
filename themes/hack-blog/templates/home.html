@@ -1,0 +1,11 @@
+    {{ content }}
+
+<div>
+<h2>Latest</h2>
+    <ul>
+{{ collection from="blog|articles" limit="5" }}
+            <li><a href="{{ url }}">{{ title }}</a> &mdash; <time datetime="{{ datestamp }}">{{ date | format: M d, Y }}</time></li>
+{{ /collection }}
+    </ul>
+</div>
+

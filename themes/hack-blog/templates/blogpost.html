@@ -1,0 +1,8 @@
+    <h2>{{ title }}</h2>
+    <p class="date">{{ date }}</p>
+
+    <p class="post-date" style="display: none;">Posted {{ date }}, tagged under   {{ taxonomy use="tags" }}
+    {{ title }}
+  {{ /taxonomy }}.</p>
+
+    {{ content }}
