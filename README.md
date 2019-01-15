@@ -26,19 +26,19 @@ Overwrite these folders/files. Select the Theme 'hackcss' if required in Setting
 
 ## Screenshots
 
-![](Screenshot01.jpg)
+![](screenshot01.jpg)
 
 ---
 
-![](Screenshot02.jpg)
+![](screenshot02.jpg)
 
 ---
 
-![](Screenshot03.jpg)
+![](screenshot03.jpg)
 
 ---
 
-![](Screenshot04.jpg)
+![](screenshot04.jpg)
 
 ## Licence
 
