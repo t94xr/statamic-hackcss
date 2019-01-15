@@ -24,22 +24,6 @@ It's intended for software developers, article sites, tutorials.
 
 Overwrite these folders/files. Select the Theme 'hackcss' if required in Settings\Themes.
 
-## Screenshots
-
-![](screenshot01.jpg)
-
----
-
-![](screenshot02.jpg)
-
----
-
-![](screenshot03.jpg)
-
----
-
-![](screenshot04.jpg)
-
 ## Licence
 
 [MIT Licence](https://github.com/t94xr/statamic-hackcss/blob/master/LICENSE)
