@@ -1,6 +1,6 @@
 # statamic-hackcss
 
-This is a finished theme for Statamic.
+This is a <em>finished</em>* theme for Statamic.
 
 ## What can it be used for?
 
@@ -31,3 +31,5 @@ Overwrite these folders/files. Select the Theme 'hackcss' if required in Setting
 ## Support
 
 Raise an issue with or contribute code/changes to the project, I'll do my best - I'm not a full time theme developer.
+
+* Help in would be appreciated :) 
