@@ -1,0 +1,5 @@
+title: 'Default Globals'
+fields:
+      site_name:
+        type: text
+        display: Site Name
