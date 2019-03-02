@@ -32,4 +32,4 @@ Overwrite these folders/files. Select the Theme 'hackcss' if required in Setting
 
 Raise an issue with or contribute code/changes to the project, I'll do my best - I'm not a full time theme developer.
 
-* Help in would be appreciated :) 
+__**Everyone is actively encouraged to help improve this theme, I will commit changes to the master.**__
